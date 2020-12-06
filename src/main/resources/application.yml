@@ -1,0 +1,6 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://0.0.0.0:5432/postgresdb
+    username: postgres
+    password: romashka
+    pool-size: 30
